@@ -1,1 +1,2 @@
 import socket
+udp = socket
